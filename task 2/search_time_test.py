@@ -1,5 +1,5 @@
 from random import choice
-from task1.linkedbst import LinkedBST
+from linkedbst import LinkedBST
 from time import time
 
 def read(filename):

@@ -1,5 +1,5 @@
 from board import Board
-from tree import BTree
+from btree import BTree
 
 def game():
     coordinates = ['00', '01','02', '10', '11', '12', '20', '21', '22']
